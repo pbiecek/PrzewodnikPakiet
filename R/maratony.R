@@ -1,6 +1,11 @@
 #' Marathons in Warsaw / Poland
 #'
-#' Data from Warsaw marathons 2013 - 2016. Based on https://www.orlenmarathon.pl/ database.
+#' Data from Warsaw marathons 2013 - 2016.
+#'
+#' Orlen Maraton Warszawski - Based on https://www.orlenmarathon.pl/ database.
+#'
+#' Polmaraton Warszawski - Based on http://pzupolmaratonwarszawski.com/ database.
+#'
 #' The subsequent columns describe:
 #' \itemize{
 #' \item nazwisko_imie First and Last name
