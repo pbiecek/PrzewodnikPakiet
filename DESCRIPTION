@@ -1,13 +1,14 @@
 Package: Przewodnik
-Title: Datasets and packages used in 'Przewodnik po pakiecie R'
-Version: 0.1
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Title: Datasets and dependencies used in 'Przewodnik po pakiecie R'
+Version: 0.16.11
+Authors@R: person("Przemyslaw", "Biecek", role = c("aut", "cre"), email = "przemyslaw.biecek@gmail.com")
+Description: An R package with dataset, functions and links to dependent packages 
+  used in 'Przewodnik po pakiecie R'. See more at  http://biecek.pl/R
 Depends:
     R (>= 3.0.0),
     PogromcyDanych,
     PBImisc
-License: What license is it under?
+License: GPL-2
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 5.0.1
