@@ -2,7 +2,7 @@ Package: Przewodnik
 Title: Datasets and dependencies used in 'Przewodnik po pakiecie R'
 Version: 0.16.11
 Authors@R: person("Przemyslaw", "Biecek", role = c("aut", "cre"), email = "przemyslaw.biecek@gmail.com")
-Description: An R package with dataset, functions and links to dependent packages used in 'Przewodnik po pakiecie R'. See more at http://biecek.pl/R.
+Description: An R package with datasets, functions and links to dependent packages used in 'Przewodnik po pakiecie R'. See more at http://biecek.pl/R.
 Depends:
     R (>= 3.0.0),
     PogromcyDanych,
