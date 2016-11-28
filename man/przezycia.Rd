@@ -12,8 +12,8 @@ data(przezycia)
 Mortality data for Poland. Based on http://www.mortality.org/ database.
 The subsequent columns describe:
 \itemize{
-\item Year. Year or range of years (for both period & cohort data)
-\item Age. Age group for n-year interval from exact age x to just before exact age x+n, where n=1, 4, 5, or ∞ (open age interval)
+\item Year. Year or range of years (for both period and cohort data)
+\item Age. Age group for n-year interval from exact age x to just before exact age x+n, where n=1, 4, 5, or infinity (open age interval)
 \item m(x). Central death rate between ages x and x+n
 \item q(x). Probability of death between ages x and x+n
 \item a(x). Average length of survival between ages x and x+n for persons dying in the interval
