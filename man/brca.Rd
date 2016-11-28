@@ -3,7 +3,7 @@
 \docType{data}
 \name{brca}
 \alias{brca}
-\title{BRCA dataset}
+\title{BRCA Dataset}
 \format{a data.frame with 695 rows and 16 columns}
 \usage{
 data(brca)

@@ -3,7 +3,7 @@
 \docType{data}
 \name{daneSoc}
 \alias{daneSoc}
-\title{Some sociodemographic data}
+\title{Example Sociodemographic Data}
 \format{a data.frame with 204 rows and 7 columns}
 \usage{
 data(daneSoc)

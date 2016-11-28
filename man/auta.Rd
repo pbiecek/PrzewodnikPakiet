@@ -3,7 +3,7 @@
 \docType{data}
 \name{auta}
 \alias{auta}
-\title{Auta dataset}
+\title{Auta Dataset}
 \format{a data.frame with 2400 rows and 8 columns}
 \usage{
 data(auta)

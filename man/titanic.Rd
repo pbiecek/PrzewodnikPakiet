@@ -3,7 +3,7 @@
 \docType{data}
 \name{titanic}
 \alias{titanic}
-\title{Titanic dataset}
+\title{Titanic Dataset}
 \format{a data.frame with 891 rows and 6 columns}
 \usage{
 data(titanic)

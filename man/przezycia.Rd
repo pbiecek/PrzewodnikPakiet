@@ -3,7 +3,7 @@
 \docType{data}
 \name{przezycia}
 \alias{przezycia}
-\title{Mortality data for Poland}
+\title{Mortality Data for Poland}
 \format{a data.frame with 11544 rows and 11 columns}
 \usage{
 data(przezycia)
