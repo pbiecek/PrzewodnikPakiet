@@ -18,6 +18,9 @@
 #'
 #' @docType data
 #' @keywords datasets
+#' @examples
+#' library("Przewodnik")
+#' summary(szkolne_wypadki)
 #' @name szkolne_wypadki
 #' @usage data(szkolne_wypadki)
 #' @format a data.frame with 20958 rows and 7 columns

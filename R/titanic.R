@@ -1,6 +1,6 @@
 #' Titanic Dataset
 #'
-#' Based on the titanic datasrt from titanic package (from kaggle).
+#' Based on the titanic dataset from titanic package (from kaggle).
 #'
 #' The subsequent columns describe:
 #' \itemize{
@@ -14,6 +14,9 @@
 #'
 #' @docType data
 #' @keywords datasets
+#' @examples
+#' library("Przewodnik")
+#' summary(titanic)
 #' @name titanic
 #' @usage data(titanic)
 #' @format a data.frame with 891 rows and 6 columns

@@ -29,6 +29,9 @@
 #' @docType data
 #' @keywords datasets
 #' @name maratony
+#' @examples
+#' library("Przewodnik")
+#' summary(maratony)
 #' @usage data(maratony)
 #' @format a data.frame with 70736 rows and 14 columns
 #'

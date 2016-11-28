@@ -14,6 +14,9 @@
 #' @docType data
 #' @keywords datasets
 #' @name daneSoc
+#' @examples
+#' library("Przewodnik")
+#' summary(daneSoc)
 #' @usage data(daneSoc)
 #' @format a data.frame with 204 rows and 7 columns
 #'

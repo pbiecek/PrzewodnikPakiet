@@ -12,6 +12,9 @@
 #' @docType data
 #' @keywords datasets
 #' @name mieszkania
+#' @examples
+#' library("Przewodnik")
+#' summary(mieszkania)
 #' @usage data(mieszkania)
 #' @format a data.frame with 200 rows and 5 columns
 #'

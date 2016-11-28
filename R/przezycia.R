@@ -20,6 +20,9 @@
 #' @docType data
 #' @keywords datasets
 #' @name przezycia
+#' @examples
+#' library("Przewodnik")
+#' summary(przezycia)
 #' @usage data(przezycia)
 #' @format a data.frame with 11544 rows and 11 columns
 #'

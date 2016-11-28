@@ -13,6 +13,9 @@
 #' @docType data
 #' @keywords datasets
 #' @name brca
+#' @examples
+#' library("Przewodnik")
+#' summary(brca)
 #' @usage data(brca)
 #' @format a data.frame with 695 rows and 16 columns
 #'

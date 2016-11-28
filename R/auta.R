@@ -18,6 +18,9 @@
 #' @keywords datasets
 #' @name auta
 #' @usage data(auta)
+#' @examples
+#' library("Przewodnik")
+#' summary(auta)
 #' @import PBImisc
 #' @import PogromcyDanych
 #' @format a data.frame with 2400 rows and 8 columns

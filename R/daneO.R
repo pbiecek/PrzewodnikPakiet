@@ -16,6 +16,9 @@
 #' @docType data
 #' @keywords datasets
 #' @name daneO
+#' @examples
+#' library("Przewodnik")
+#' summary(daneO)
 #' @usage data(daneO)
 #' @format a data.frame with 97 rows and 9 columns
 #'
