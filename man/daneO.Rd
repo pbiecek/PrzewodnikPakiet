@@ -22,5 +22,9 @@ The subsequent columns describe:
 \item VEGF vascular endothelial growth factor
 }
 }
+\examples{
+library("Przewodnik")
+summary(daneO)
+}
 \keyword{datasets}
 

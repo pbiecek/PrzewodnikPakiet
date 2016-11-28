@@ -20,5 +20,9 @@ The subsequent columns describe:
 \item MDM2, ..., DNAJB12 - expression of different genes
 }
 }
+\examples{
+library("Przewodnik")
+summary(brca)
+}
 \keyword{datasets}
 

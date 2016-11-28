@@ -26,5 +26,9 @@ The subsequent columns describe:
 
 Prepared by Krzysztof Trajkowski.
 }
+\examples{
+library("Przewodnik")
+summary(szkolne_wypadki)
+}
 \keyword{datasets}
 

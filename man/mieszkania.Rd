@@ -18,5 +18,9 @@ The subsequent columns describe:
 \item typ.budynku house type
 }
 }
+\examples{
+library("Przewodnik")
+summary(mieszkania)
+}
 \keyword{datasets}
 

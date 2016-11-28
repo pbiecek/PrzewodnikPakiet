@@ -36,5 +36,9 @@ The subsequent columns describe:
 
 Prepared by Krzysztof Trajkowski.
 }
+\examples{
+library("Przewodnik")
+summary(maratony)
+}
 \keyword{datasets}
 

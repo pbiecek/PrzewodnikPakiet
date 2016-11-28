@@ -9,7 +9,7 @@
 data(titanic)
 }
 \description{
-Based on the titanic datasrt from titanic package (from kaggle).
+Based on the titanic dataset from titanic package (from kaggle).
 }
 \details{
 The subsequent columns describe:
@@ -21,6 +21,10 @@ The subsequent columns describe:
 \item Fare fare
 \item Embarked embarked
 }
+}
+\examples{
+library("Przewodnik")
+summary(titanic)
 }
 \keyword{datasets}
 

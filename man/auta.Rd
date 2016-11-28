@@ -24,5 +24,9 @@ The subsequent columns describe:
 \item Produkcja Year of production
 }
 }
+\examples{
+library("Przewodnik")
+summary(auta)
+}
 \keyword{datasets}
 

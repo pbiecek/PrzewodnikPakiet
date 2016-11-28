@@ -20,5 +20,9 @@ The subsequent columns describe:
 \item cisnienie.rozkurczowe Blood pressure
 }
 }
+\examples{
+library("Przewodnik")
+summary(daneSoc)
+}
 \keyword{datasets}
 

@@ -27,5 +27,9 @@ The subsequent columns describe:
 \details{
 Find more at http://www.mortality.org/Public/ExplanatoryNotes.php#CompleteDataSeries
 }
+\examples{
+library("Przewodnik")
+summary(przezycia)
+}
 \keyword{datasets}
 
