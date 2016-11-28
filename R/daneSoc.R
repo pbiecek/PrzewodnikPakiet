@@ -1,4 +1,4 @@
-#' Some sociodemographic data
+#' Example Sociodemographic Data
 #'
 #' The subsequent columns describe:
 #' \itemize{

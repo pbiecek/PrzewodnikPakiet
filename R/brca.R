@@ -1,4 +1,4 @@
-#' BRCA dataset
+#' BRCA Dataset
 #'
 #' From The Cancer Genome Atlas dataset, subset for BRCA - BReast CAncer.
 #'

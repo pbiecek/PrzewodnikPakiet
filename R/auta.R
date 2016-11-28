@@ -1,4 +1,4 @@
-#' Auta dataset
+#' Auta Dataset
 #'
 #' A subset of an auta2012 dataset from the package PogromcyDanych.
 #'

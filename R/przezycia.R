@@ -1,4 +1,4 @@
-#' Mortality data for Poland
+#' Mortality Data for Poland
 #'
 #' Mortality data for Poland. Based on http://www.mortality.org/ database.
 #' The subsequent columns describe:

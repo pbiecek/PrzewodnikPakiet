@@ -1,5 +1,5 @@
 Package: Przewodnik
-Title: Datasets and Functions used in the Book 'Przewodnik po Pakiecie R'
+Title: Datasets and Functions Used in the Book 'Przewodnik po Pakiecie R'
 Version: 0.16.11
 Authors@R: person("Przemyslaw", "Biecek", role = c("aut", "cre"), email = "przemyslaw.biecek@gmail.com")
 Description: An R package with datasets and functions used in 

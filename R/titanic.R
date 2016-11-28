@@ -1,4 +1,4 @@
-#' Titanic dataset
+#' Titanic Dataset
 #'
 #' Based on the titanic datasrt from titanic package (from kaggle).
 #'
